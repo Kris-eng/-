@@ -1,0 +1,14 @@
+﻿  test.cpp
+C:\Users\future\source\repos\test\test.cpp(170,28): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\future\source\repos\test\test.cpp(173,15): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\future\source\repos\test\test.cpp(186,71): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\future\source\repos\test\test.cpp(186,61): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\future\source\repos\test\test.cpp(186,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\future\source\repos\test\test.cpp(197,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\future\source\repos\test\test.cpp(197,55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\future\source\repos\test\test.cpp(197,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\future\source\repos\test\test.cpp(200,24): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\future\source\repos\test\test.cpp(243,24): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\future\source\repos\test\test.cpp(244,24): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\future\source\repos\test\test.cpp(259,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  test.vcxproj -> C:\Users\future\source\repos\test\Debug\test.exe
